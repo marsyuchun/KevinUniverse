@@ -1,0 +1,40 @@
+```puml
+@startmindmap
+<style>
+mindmapDiagram {
+    node {
+        BackgroundColor lightBlue
+    }
+}
+</style>
+
+caption 测试分析
+title 测试竞争力
+
+* 测试核心竞争力
+** <&star>传统测试工程师竞争力
+*** 测试策略设计能力
+*** 测试用例设计能力
+*** 快速学习能力
+*** 探索性思维测试
+*** 缺陷分析能力
+*** 自动化测试技术
+*** 良好的沟通能力
+** <&star> 测试开发工程师核心竞争力
+*** 测试系统需求分析能力
+*** 更宽广的知识体系
+
+
+header
+My super header
+endheader
+
+center footer My super footer
+
+legend left
+  Short
+  legend
+endlegend
+@endmindmap
+
+```
